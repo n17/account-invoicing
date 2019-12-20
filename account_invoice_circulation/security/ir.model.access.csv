@@ -1,8 +1,0 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-"manager_invoice_circulation","manager_invoice_circulation","model_account_invoice_circulation","account.group_account_manager",1,1,1,1
-"manager_invoice_circulation_line","manager_invoice_circulation_line","model_account_invoice_circulation_line","account.group_account_manager",1,1,1,1
-"billing_invoice_circulation","billing_invoice_circulation","model_account_invoice_circulation","account.group_account_invoice",1,0,0,0
-"billing_invoice_circulation_line","billing_invoice_circulation_line","model_account_invoice_circulation_line","account.group_account_invoice",1,0,0,0
-"approver_invoice_circulation","approver_invoice_circulation","model_account_invoice_circulation","account.group_invoice_approver",1,0,0,0
-"approver_invoice_circulation_line","approver_invoice_circulation_line","model_account_invoice_circulation_line","account.group_invoice_approver",1,0,0,0
-"approver_account_invoice","approver_account_invoice","account.model_account_invoice","account.group_invoice_approver",1,1,0,0

@@ -7,7 +7,7 @@ Overdue Interest for Invoices
 =============================
 
 * Enables setting overdue interest rate percents for customers as well as
-  invidivual invoices
+  individual invoices
 
 Configuration
 =============
@@ -36,6 +36,7 @@ Credits
 Contributors
 ------------
 * Timo Talvitie <timo.talvitie@tawasta.fi>
+* Oskars Zālītis <oskars.zalitis@avoin.systems>
 
 Maintainer
 ----------
