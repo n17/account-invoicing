@@ -21,7 +21,7 @@
 {
     "name": "Overdue Interest for Invoices",
     "summary": "Overdue interest % field for invoices and partners",
-    "version": "17.0.1.0.0",
+    "version": "15.0.1.0.0",
     "category": "Invoicing",
     "website": "https://gitlab.com/tawasta/odoo/account-invoicing",
     "author": "Tawasta",

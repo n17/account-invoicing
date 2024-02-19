@@ -10,7 +10,7 @@
                 name="overdue_interest"
             >
                 <t t-if="o.move_type != 'in_refund' and o.move_type != 'out_refund'">
-                    <strong>Overdue interest:</strong>
+                    <strong>Interest on Overdue:</strong>
                     <p class="m-0"><span t-field="o.overdue_interest" />%</p>
                 </t>
             </div>
